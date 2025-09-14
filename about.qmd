@@ -1,5 +1,29 @@
 ---
-title: "About"
+title: "About Me"
+format: html
 ---
 
-About this site
+# About Me  
+
+I’m a **Data Science professional** with 3 years of experience in **machine learning, data engineering, and analytics**.  
+
+In my previous role at **Merkle (client: The Home Depot)**, I worked on:
+- Building predictive models  
+- Automating data pipelines  
+- Optimizing reporting systems  
+
+These projects helped drive smarter business decisions and deliver better customer experiences.  
+
+---
+
+Currently, I’m pursuing the **Master of Data Science in Computational Linguistics (MDS-CL)** at **UBC**, where I focus on **natural language processing (NLP)** and **language technologies**. This program allows me to combine my data science background with a deeper understanding of how machines can interpret and process human language.  
+
+---
+
+💡 I’m passionate about:  
+- Turning **data into meaningful insights**  
+- Building **AI solutions** that make a real impact  
+- Bridging the gap between **data science** and **language**  
+
+Thanks for visiting my site! 🚀
+
