@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "About Me\nI’m a Data Science professional with 3 years of experience in machine learning, data engineering, and analytics.\nIn my previous role at Merkle (client: The Home Depot), I worked on: - Building predictive models\n- Automating data pipelines\n- Optimizing reporting systems\nThese projects helped drive smarter business decisions and deliver better customer experiences.\n\nCurrently, I’m pursuing the Master of Data Science in Computational Linguistics (MDS-CL) at UBC, where I focus on natural language processing (NLP) and language technologies. This program allows me to combine my data science background with a deeper understanding of how machines can interpret and process human language.\n\n💡 I’m passionate about:\n- Turning data into meaningful insights\n- Building AI solutions that make a real impact\n- Bridging the gap between data science and language\nThanks for visiting my site! 🚀"
+    "text": "I’m a Data Science professional with 3 years of experience in machine learning, data engineering, and analytics.\nIn my previous role at Merkle (client: The Home Depot), I worked on:\nThese projects helped drive smarter business decisions and deliver better customer experiences."
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "komalpreet10.github.io",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html#current-studies",
+    "href": "about.html#current-studies",
+    "title": "About Me",
+    "section": "Current Studies",
+    "text": "Current Studies\nCurrently, I’m pursuing the Master of Data Science in Computational Linguistics (MDS-CL) at UBC, where I focus on natural language processing (NLP) and language technologies.\nThis program allows me to combine my data science background with a deeper understanding of how machines can interpret and process human language."
+  },
+  {
+    "objectID": "about.html#interests-passion",
+    "href": "about.html#interests-passion",
+    "title": "About Me",
+    "section": "Interests & Passion 💡",
+    "text": "Interests & Passion 💡\nI’m passionate about:\n\nTurning data into meaningful insights\n\nBuilding AI solutions that make a real impact\n\nBridging the gap between data science and language\n\nThanks for visiting my site! 🚀"
   }
 ]
